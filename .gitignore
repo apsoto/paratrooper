@@ -6,3 +6,4 @@ Gemfile.lock
 .rspec
 .ruby-version
 .ruby-gemset
+vendor/bundler
